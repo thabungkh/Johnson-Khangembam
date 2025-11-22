@@ -1,0 +1,5 @@
+{
+  "name": "UPSC Economy Smart-Synthesizer",
+  "description": "An AI-powered study companion that synthesizes UPSC Economy preparation materials. It filters standard notes, NCERTs, and Current Affairs through the lens of Previous Year Questions (PYQs) to generate concise, high-yield study guides.",
+  "requestFramePermissions": []
+}
